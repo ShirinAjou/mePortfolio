@@ -108,6 +108,10 @@ img {
     max-width: 100%;
 }
 
+.me{
+    width: 30%;
+}
+
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
 
 /* Code */
