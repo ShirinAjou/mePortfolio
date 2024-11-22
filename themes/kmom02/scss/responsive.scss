@@ -1,0 +1,48 @@
+@media (max-width: 767px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .nav ul {
+    flex-direction: column;
+    padding-bottom: 1em;
+  }
+
+  .nav ul li {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .nav ul li a {
+    display: block;
+    padding: 0.5em 0;
+  }
+
+  .js .nav-toggle {
+    display: block;
+    float: right;
+    width: 2em;
+    margin: 0.6667em 0;
+    font-size: 1.5rem;
+    line-height: 2em;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .me,
+  .color {
+    width: 100%; /* Gör elementen fullbredd */
+    margin-bottom: 1rem; /* Lägg till mellanrum mellan elementen */
+  }
+
+  .main {
+    width: 100%; /* Gör huvudinnehållet fullbredd */
+    padding: 1rem; /* Anpassa innerutrymmet */
+    max-width: 64rem;
+  }
+}
+
+
+
+
