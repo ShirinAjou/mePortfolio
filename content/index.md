@@ -6,8 +6,6 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
-
 ![me](%assets_url%/img/bild.png){.me}
 
 Mitt namn är Shirin och jag bor i Stockholm men brukar säga att jag bor i Sundsvall på deltid eftersom jag är där så ofta. Jag studerar webbprogrammering på Blekinge Tekniska Högskola, där jag just nu går min första termin. Det känns både spännande och utmanande att få dyka in i något jag länge varit nyfiken på.

@@ -1,8 +1,11 @@
 ---
 Logo: image/bird.png 
-Tagline: My portfolio.
+Tagline: My portfolio
 Social:
-    - title: Link till sidans github repo.
+    - title: Länk till sidans github repo.
       url: https://github.com/ShirinAjou/portfolio 
-      icon: github
+      icon: fab fa-github
+    - title: Länk till skolans hemsida.
+      url: https://www.bth.se/ 
+      icon: fas fa-school
 ---

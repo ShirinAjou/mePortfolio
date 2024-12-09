@@ -1,0 +1,24 @@
+.technology {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+}
+
+.technology .article {
+  width: 60%;
+}
+
+.technology .menu {
+  width: 30%;
+}
+
+@media (max-width: 767px) {
+  .menu {
+    display: none;
+  }
+  
+  .technology .article {
+    width: 100%;
+  }
+}
